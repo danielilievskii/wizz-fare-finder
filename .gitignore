@@ -1,0 +1,12 @@
+# IDE settings
+.idea/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+wizz-fare-finder-api/.env
+
+
+__pycache__/

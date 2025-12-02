@@ -1,0 +1,46 @@
+{
+    "STR": [
+        "FMM",
+        "FDH"
+    ],
+    "FMM": [
+        "STR",
+        "FDH"
+    ],
+    "FDH": [
+        "STR",
+        "FMM"
+    ],
+    "MXP": [
+        "VCE",
+        "TSF",
+        "BLQ"
+    ],
+    "VCE": [
+        "MXP",
+        "TSF",
+        "BLQ"
+    ],
+    "TSF": [
+        "MXP",
+        "VCE",
+        "BLQ"
+    ],
+    "BLQ": [
+        "MXP",
+        "VCE",
+        "TSF"
+    ],
+    "CIA": [
+        "FCO"
+    ],
+    "FCO": [
+        "CIA"
+    ],
+    "CRL": [
+        "BRU"
+    ],
+    "BRU": [
+        "CRL"
+    ]
+}
